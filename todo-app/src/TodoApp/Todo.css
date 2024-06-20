@@ -1,0 +1,69 @@
+.todo-container {
+  background-color: rgb(223, 155, 19);
+  padding: 5em;
+  margin: 5%;
+  border-radius: 0.5em;
+  border-color: black;
+  border-style: outset;
+}
+.header {
+  color: rgb(185, 29, 29);
+  font-size: 3em;
+  align-items: left;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.btn {
+  border-radius: 5px;
+  margin: auto;
+  padding: auto;
+  border: none;
+  cursor: pointer;
+  color: black;
+
+  background-color: rgb(21, 199, 12);
+  box-shadow: 2px 2px 0 0 black;
+
+  box-shadow: 3px 3px 0 0 white;
+}
+.input-content {
+  background: rgb(237, 67, 15);
+  padding: 0.5em;
+  border-radius: 0.5em;
+  border: 2px solid black;
+  box-shadow: 2px 2px 0 0 black;
+}
+.input {
+  font-size: 1.5em;
+
+  color: black;
+  background-color: white;
+  border: 1px;
+  border-radius: 20px;
+  padding: 0.5em;
+  margin: 1em;
+  width: 80%;
+}
+.list-task {
+  font-size: 1.25em;
+  color: rgb(0, 0, 0);
+
+  font-family: "Ubuntu", sans-serif;
+  background-color: rgb(246, 246, 246);
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 0.5em;
+  margin: 0.5em;
+  box-shadow: 2px 2px 0 0 black;
+}
+.del-btn {
+  border-radius: 5px;
+  margin: 0 5px;
+  padding: 3px 5px;
+  border: none;
+  cursor: pointer;
+  color: black;
+  float: right;
+  background-color: red;
+  box-shadow: 2px 2px 0 0 black;
+}
